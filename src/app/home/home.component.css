@@ -224,7 +224,7 @@ background: var(--colors-dreamy-gradients-orange); */
 
 .column-one {
   flex: 55%;
-  padding: 10vh 10px 0 clamp(50px, 8%, 200px);
+  padding: 25vh 10px 0 clamp(50px, 8%, 200px);
   /* trbl */
 }
 .column-two {
